@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Week3</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="add_string">Voeg verjaardag toe</string>
+    <string name="delete_string">Verwijder deze verjaardag</string>
+    <string name="show_string">Toon alle verjaardagen</string>
+</resources>
